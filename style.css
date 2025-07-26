@@ -1,0 +1,117 @@
+        body {
+            background-color: #cb5800;
+        }
+        img {
+            border-bottom-right-radius: 20px;
+            border-top-left-radius: 20px;
+            box-shadow: #2b2424 10px 5px 10px;
+            border: black;
+            height: 150px;
+            width: 150px;
+            display: block;
+            margin: 0 auto;
+        }
+        .pro {
+            font-size: larger;
+            color: white;
+            text-shadow: red 2px 2px 4px;
+        }
+        h1  {
+            font-size: 50px;
+            text-shadow: #d3d3d3 2px 2px 4px;
+            text-align: center;
+            font-family: cursive;
+        }
+        h2 {
+            font-size: 20px;
+            background-color: #febc75;
+            border: #2b2424 2px solid;
+            padding:0% 20px;
+            text-align: center;
+            font-family: cursive;
+        }
+        .education a {
+            font-size: large;
+            text-decoration: none;
+            color: red;
+            display: block;
+            text-align: center;
+        }   
+        .date {
+            border: #2b2424 2px solid;
+            border-left: #2b2424 5px solid;
+            border-right: #2b2424 5px solid;
+            padding: 1px;
+            margin: 1% 170px;
+            
+        }
+        a {
+            font-size: larger;
+            text-decoration: none;
+            color: white;
+            display: block;
+            text-align: center;
+        }
+        .education {
+            background-color: #febc75;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+        }
+        .experience {
+            background-color: #febc75;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+        }          
+        h3{
+            text-shadow: red 2px 2px 4px;
+            font-family: cursive;
+            text-align: center;
+        }
+        p1 {
+            font-family: cursive;
+            text-align: left;
+        }
+        p {
+            font-size: large;
+            text-align: center;
+            font-family: cursive;
+
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        .container {
+            border:black 2px solid;
+            border-radius: 5px;
+            background-color: #f9c287;
+            padding: 20px;
+        }
+        input[type=text], select, textarea {
+            width: 100%;
+            padding: 9px;  
+            border-radius: 4px; 
+            margin-top: 6px; 
+            margin-bottom: 16px; 
+            resize: vertical ;
+        }
+        .contact {
+            text-shadow: black 3px 3px 3px;
+            font-size: x-large;
+            color: #ffffff;
+            text-align: center;
+            font-family: cursive;
+        }
+        .skills{
+            width: 65%;
+            border-collapse: collapse;
+            text-align: center;
+            margin: 0 auto;
+            background-color: #febc75;
+            border: #2b2424 2px solid;
+            border-radius: 5px;
+        }
